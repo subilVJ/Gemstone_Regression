@@ -2,7 +2,11 @@ numpy
 pandas
 matplotlib
 seaborn
-ipykernel
 scikit-learn
+ipykernel
+catboost
+xgboost
 dill
+flask
+flask_cors
 #-e .
